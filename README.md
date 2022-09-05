@@ -63,8 +63,6 @@ git clone https://github.com/DSPBluePrints/FactoryBluePrints.git
 > Q: `error: SSL_read` 相关  
 > A: 通常是网络波动，重试即可。如果已经排除网络问题可以搜索 `git SSL_read` 并逐一排查错误原因，此处不再赘述
 
----
-
 可以通过`pull`命令进行对本地蓝图文件夹进行更新。Git将自动检查上次更新以来发生变动的蓝图/蓝图合集，并以增量更新的形式更新本地仓库(约1-5mb)  
 **或者直接双击仓库根目录下的"双击更新蓝图仓库.bat"**  
 
@@ -74,7 +72,7 @@ git pull origin main
 
 ---
 
-### 相关链接
+## 相关链接
 
 主仓库：        https://github.com/DSPBluePrints  
 镜像仓库：      https://gitee.com/DSPBluePrints  
