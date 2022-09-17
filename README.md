@@ -42,7 +42,16 @@
 
 ## 蓝图仓库使用方法
 
-### 基础用法
+### 视频教程
+
+内容同下方的文字教程，视频时长约1.5min  
+https://www.bilibili.com/video/bv1RK411Z7b2  
+
+---
+
+### 文字教程
+
+#### 基础用法
 
 您可以直接进入[蓝图仓库的网页](https://github.com/DSPBluePrints/FactoryBluePrints)，寻找并打开自己需要的蓝图文件，点击位于蓝图代码右上方的**全选复制**(Copy raw contents)。  
 然后进入游戏，在蓝图页面依次点击**新建空蓝图**，**粘贴**，**保存更改**，就可以将蓝图代码保存到本地，像平常那样使用。  
@@ -51,7 +60,7 @@
 > Q: 为什么蓝图仓库网页打开特别慢，我该怎么办？  
 > A: 蓝图仓库被托管在github上，可以通过在[Watt Toolkit](https://steampp.net)(原名steam++)中开启github加速服务解决。~~或者魔法？~~  
 
-### 进阶用法
+#### 进阶用法
 
 如果您有[Git](https://git-scm.com/)的使用基础，**可以将整个蓝图仓库用`clone`命令拉取到游戏的蓝图文件夹内(约300mb)**。这样您将以蓝图合集的形式将完整的蓝图仓库下载到本地，并且可以在游戏内直接访问，享受在线蓝图仓库与游戏无缝衔接的体验。  
 
@@ -78,7 +87,6 @@ git pull origin main
 
 主仓库： https://github.com/DSPBluePrints  
 镜像仓库： https://gitee.com/DSPBluePrints  
-视频教程： https://www.bilibili.com/video/bv1RK411Z7b2  
 
 ---
 
